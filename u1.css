@@ -1,0 +1,28 @@
+* {
+    padding:0;
+    margin:0;
+    font-family: 'Noto Sans JP', sans-serif;
+    /*background-color:  #ef9a9a ;*/
+    background-color: floralwhite;
+    color: gray;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.product {
+    border-top: 3px solid gray;
+    box-shadow: 5px;
+    padding: 20px;
+    margin: 0px;
+}
+
+h1{
+    font-weight: bold;
+}
