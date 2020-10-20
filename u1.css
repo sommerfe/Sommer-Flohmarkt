@@ -42,3 +42,9 @@ h2 {
     padding: 10px;
     text-decoration: underline;
 }
+
+.back {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
